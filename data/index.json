@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "categoria": "parques",
+    "nombre": "Parques Recreativos",
+    "img": "https://blog.vpackage.net/files/1342/aprender-jugando-parques-infantiles.jpg",
+    "data": [
+      {
+        "nombre": "Parque Sunshine Valley",
+        "tipo": "Parque Recreativo",
+        "ubicacion": "Avenida Recreo #456",
+        "caracteristicas": ["Zonas de picnic", "senderos para caminatas", "área de juegos infantiles"],
+        "horario": "Abierto todos los días, 6:00 AM - 8:00 PM",
+        "reservacion":false
+      },
+      {
+        "nombre": "Parque Serene Meadows",
+        "tipo": "Espacio Verde y Recreación",
+        "ubicacion": "Calle Tranquilidad #890",
+        "caracteristicas": ["Amplias áreas verdes", "laguna con patos", "zona de yoga al aire libre"],
+        "horario": "Abierto todos los días, 7:00 AM - 9:00 PM",
+        "reservacion":false
+      },
+      {
+        "nombre": "Parque Foresta Adventure",
+        "tipo": "Parque Natural",
+        "ubicacion": "Calle Bosque #234",
+        "caracteristicas": ["Áreas boscosas", "rutas de senderismo", "observación de aves"],
+        "horario": "Abierto todos los días, 7:00 AM - 6:00 PM",
+        "reservacion":false
+      },
+      {
+        "nombre": "Parque Crystal Lake",
+        "tipo": "Parque Acuático",
+        "ubicacion": "Avenida Lago #567",
+        "caracteristicas": ["Lago para nadar", "playas de arena", "zonas de picnic"],
+        "horario": "Lunes a Viernes, 10:00 AM - 8:00 PM; Sábados y Domingos, 9:00 AM - 9:00 PM",
+        "reservacion":false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "categoria": "canchas",
+    "nombre": "Canchas Deportivas",
+    "img": "https://i0.wp.com/www.construcanchas.com/wp-content/uploads/2021/03/fondo-3.jpg?resize=1060%2C571&ssl=1",
+    "data": [
+      {
+        "nombre": "Complejo Deportivo Greenfield",
+        "tipo": "Canchas Deportivas",
+        "ubicacion": "Calle Deportiva #123",
+        "instalaciones": ["5 canchas de tenis", "3 canchas de baloncesto", "2 canchas de fútbol"],
+        "horario": "Lunes a Domingo, 8:00 AM - 10:00 PM",
+        "reservacion":false
+      },
+      {
+        "nombre": "Complejo Deportivo Golden Goals",
+        "tipo": "Canchas de Fútbol",
+        "ubicacion": "Boulevard Deporte #567",
+        "instalaciones": ["3 canchas de fútbol de césped artificial"],
+        "horario": "Lunes a Viernes, 4:00 PM - 10:00 PM; Sábados y Domingos, 9:00 AM - 10:00 PM",
+        "reservacion":false
+      },
+      {
+        "nombre": "Campos Deportivos PlayLand",
+        "tipo": "Campos Deportivos",
+        "ubicacion": "Calle Victoria #456",
+        "instalaciones": ["Campo de fútbol", "pista de atletismo", "canchas de tenis"],
+        "horario": "Lunes a Domingo, 9:00 AM - 10:00 PM",
+        "reservacion":false
+      },
+      {
+        "nombre": "Campos de Baloncesto Slam Dunk",
+        "tipo": "Canchas de Baloncesto",
+        "ubicacion": "Boulevard Dunk #789",
+        "instalaciones": ["Canchas de baloncesto al aire libre"],
+        "horario": "Abierto todos los días, 8:00 AM - 8:00 PM",
+        "reservacion":false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "categoria": "piscinas",
+    "nombre": "Piscinas",
+    "img": "https://s3.ppllstatics.com/ideal/www/multimedia/202206/24/media/cortadas/piscina-maracena2-kCCI-U170513918162CTF-1248x770@Ideal.jpg",
+    "data": [
+      {
+        "nombre": "Club Acuático Crystal Waves",
+        "tipo": "Piscina y Spa",
+        "ubicacion": "Camino del Agua #789",
+        "instalaciones": ["Piscina olímpica", "piscina de hidromasaje", "sauna"],
+        "horario": "Lunes a Sábado, 9:00 AM - 9:00 PM; Domingos, 11:00 AM - 7:00 PM",
+        "reservacion":false
+      },
+      {
+        "nombre": "Complejo Acuático AquaGlide",
+        "tipo": "Parque Acuático",
+        "ubicacion": "Avenida Acuática #1234",
+        "atracciones": ["Piscinas de olas", "toboganes de agua", "río lento"],
+        "horario": "Martes a Domingo, 10:00 AM - 6:00 PM",
+        "reservacion":false
+      },
+      {
+        "nombre": "Piscina Oasis",
+        "tipo": "Piscina",
+        "ubicacion": "Calle Oasis #987",
+        "instalaciones": ["Piscina climatizada", "jacuzzi", "área de descanso"],
+        "horario": "Abierto todos los días, 8:00 AM - 10:00 PM",
+        "reservacion":false
+      },
+      {
+        "nombre": "Complejo Acuático Splash World",
+        "tipo": "Parque Acuático",
+        "ubicacion": "Avenida Acuática #789",
+        "atracciones": ["Piscina de olas", "toboganes de agua", "río lento"],
+        "horario": "Miércoles a Domingo, 11:00 AM - 7:00 PM",
+        "reservacion":false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "categoria": "Sala",
+    "nombre": "Salas de Usos Múltiples",
+    "img": "https://s3.ppllstatics.com/ideal/www/multimedia/202206/24/media/cortadas/piscina-maracena2-kCCI-U170513918162CTF-1248x770@Ideal.jpg",
+    "data": [
+      {
+        "nombre": "Sala A",
+        "descripcion": "Sala para reuniones pequeñas con capacidad para 10 personas",
+        "horario": "Lunes a Viernes, 9:00 AM - 5:00 PM",
+        "ubicacion": "Calle Principal #123",
+        "tipo": "Reuniones",
+        "reservacion": false
+      },
+      {
+        "nombre": "Sala B",
+        "descripcion": "Sala de conferenciascon capacidad para 50 personas",
+        "horario": "Lunes a Sábado, 10:00 AM - 8:00 PM",
+        "ubicacion": "Avenida Central #456",
+        "tipo": "Conferencias",
+        "reservacion": false
+      },
+      {
+        "nombre": "Sala C",
+        "descripcion": "Sala de capacitacióncon capacidad para 30 personas",
+        "horario": "Martes a Jueves, 2:00 PM - 7:00 PM",
+        "ubicacion": "Plaza Principal #789",
+        "tipo": "Capacitación",
+        "reservacion": false
+      },
+      {
+        "nombre": "Sala D",
+        "descripcion": "Sala de presentaciones con capacidad para 20 personas",
+        "horario": "Miércoles y Viernes, 11:00 AM - 4:00 PM",
+        "ubicacion": "Calle Secundaria #567",
+        "tipo": "Presentaciones",
+        "reservacion": false
+      }
+    ]
+  }
+]
