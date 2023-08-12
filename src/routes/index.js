@@ -4,7 +4,7 @@ import Login from '../views/Login';
 import Home from '../views/Home';
 import Reservar from '../views/Reservar';
 import Navbar from '../views/Navbar';
-import HistorialDeReservas from '../HistorialDeReservas';
+import HistorialDeReservas from '../views/HistorialDeReservas';
 
 const Routes = () => {
   const Stack = createNativeStackNavigator();

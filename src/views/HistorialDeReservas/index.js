@@ -1,8 +1,8 @@
 import React from 'react';
 import {ScrollView, StyleSheet, Text, View} from 'react-native';
-import useReservas from '../hook/useReservas';
+import useReservas from '../../hook/useReservas';
 
-const HistorialDeReservas = ({navigation}) => {
+const HistorialDeReservas = () => {
   const {reservas} = useReservas();
   return (
     <ScrollView style={styles.contenedor}>
